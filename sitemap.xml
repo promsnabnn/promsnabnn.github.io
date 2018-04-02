@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!-- created with www.majento.ru -->
+	<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>http://xn----7sbd6bfdabikn.xn--p1ai/</loc>
+		<lastmod>2013-10-13T00:55:08+04:00</lastmod>
+		<priority>1.00</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://xn----7sbd6bfdabikn.xn--p1ai/advantages.html</loc>
+		<lastmod>2013-10-13T00:55:08+04:00</lastmod>
+		<priority>0.90</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://xn----7sbd6bfdabikn.xn--p1ai/contacts.html</loc>
+		<lastmod>2013-10-13T00:55:08+04:00</lastmod>
+		<priority>0.90</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://xn----7sbd6bfdabikn.xn--p1ai/gallery.html</loc>
+		<lastmod>2013-10-13T00:55:08+04:00</lastmod>
+		<priority>0.90</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://xn----7sbd6bfdabikn.xn--p1ai/index.html</loc>
+		<lastmod>2013-10-13T00:55:08+04:00</lastmod>
+		<priority>0.90</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://xn----7sbd6bfdabikn.xn--p1ai/production.html</loc>
+		<lastmod>2013-10-13T00:55:08+04:00</lastmod>
+		<priority>0.90</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://xn----7sbd6bfdabikn.xn--p1ai/services.html</loc>
+		<lastmod>2013-10-13T00:55:08+04:00</lastmod>
+		<priority>0.90</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	</urlset>
